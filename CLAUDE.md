@@ -4,6 +4,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 @AGENTS.md
 
+## IMPORTANT: Docs-First Rule
+
+**Before writing any code, always check the `/docs` directory for a relevant guide.** If a matching doc exists, read it fully and follow it — it takes precedence over general knowledge or training data. Only proceed without a doc if none applies to the task at hand.
+
 ## Commands
 
 ```bash
